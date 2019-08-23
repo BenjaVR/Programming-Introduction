@@ -1,0 +1,10 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 22
+    placeholder_text: '# add your code!'
+- name: tests/test_task.py
+  visible: false
